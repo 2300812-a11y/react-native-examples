@@ -1,4 +1,3 @@
-// App.js
 import React, { useState } from 'react';
 import {
   ActivityIndicator,
@@ -27,7 +26,6 @@ import {
   Alert,
 } from 'react-native';
 
-// Correct import for Slider
 import Slider from '@react-native-community/slider';
 
 export default function App() {
